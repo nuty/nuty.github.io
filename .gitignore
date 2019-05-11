@@ -1,7 +1,0 @@
-/node_modules
-/.idea
-.DS_Store
-*.DS_Store
-/frontend
-/npm-debug.log
-/package-lock.json
