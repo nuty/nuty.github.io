@@ -1,17 +1,17 @@
 var plugins = [{
-      plugin: require('/Users/rosso/workon/piccolo/rosso-gatsby/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
+      plugin: require('/Users/aruarian/workon/piccolo/nuty.github.io/node_modules/gatsby-plugin-manifest/gatsby-ssr'),
       options: {"plugins":[],"name":"我自己的地盘","short_name":"Rosso","start_url":"/","background_color":"rgb(33, 36, 45)","theme_color":"#0c9ee4","display":"minimal-ui","icon":"content/assets/avatar.png"},
     },{
-      plugin: require('/Users/rosso/workon/piccolo/rosso-gatsby/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
+      plugin: require('/Users/aruarian/workon/piccolo/nuty.github.io/node_modules/gatsby-plugin-google-analytics/gatsby-ssr'),
       options: {"plugins":[],"trackingId":"UA-134661352-1"},
     },{
-      plugin: require('/Users/rosso/workon/piccolo/rosso-gatsby/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
+      plugin: require('/Users/aruarian/workon/piccolo/nuty.github.io/node_modules/gatsby-plugin-sitemap/gatsby-ssr'),
       options: {"plugins":[],"output":"/sitemap.xml"},
     },{
-      plugin: require('/Users/rosso/workon/piccolo/rosso-gatsby/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
+      plugin: require('/Users/aruarian/workon/piccolo/nuty.github.io/node_modules/gatsby-plugin-react-helmet/gatsby-ssr'),
       options: {"plugins":[]},
     },{
-      plugin: require('/Users/rosso/workon/piccolo/rosso-gatsby/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
+      plugin: require('/Users/aruarian/workon/piccolo/nuty.github.io/node_modules/gatsby-plugin-styled-components/gatsby-ssr'),
       options: {"plugins":[]},
     }]
 // During bootstrap, we write requires at top of this file which looks like:
